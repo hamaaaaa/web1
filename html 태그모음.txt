@@ -1,0 +1,19 @@
+html 태그
+
+<strong> 강조
+<u> 밑줄
+<br> 줄바꿈
+<p> 단락나눔
+<img src="" width=""> 이미지넣기
+
+<ol> 번호나옴
+<ul> 번호안나옴 점나옴
+<li> ol,ul안
+
+<!DOCTYPE html>
+<head>
+<body>
+<title> 제목
+<meta charset="uft-8"> 
+
+<a href="" target="blank"[새창으로띄움] title=""[설명]> 링크 
